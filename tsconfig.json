@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "lib": ["dom", "dom.iterable", "esnext"],
+		"types": ["@types/telegram-web-app"],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
